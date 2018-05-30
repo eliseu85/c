@@ -1,4 +1,4 @@
-#Vagrant Seis Dígitos
+# Vagrant Seis Dígitos
 
 ### Guia de utilização
 
@@ -7,7 +7,7 @@ Depois de baixar este repositório, siga este guia:
 *   Baixar e instalar o Virtual Box. Versões do Virtual Box suportadas: 4.0.x, 4.1.x, 4.2.x, 4.3.x, 5.0.x, 5.1.xe 5.2.x. As versões beta e pré-lançamento do VirtualBox não são suportadas.  
     [Link Download Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 *   Baixar e instalar o Vagrant. [Link Download Vagrant](https://releases.hashicorp.com/vagrant/2.1.1/)
-*   Pelo prompt de comando, entre na pasta onde você baixou este respositório e rode o comando:  
+*   Pelo prompt de comando, entre na pasta onde você baixou este respositório e rode o comando:    
     **vagrant up**  
     Aguarde a instalção até ser exibido a mensagem: "[OK] --- Ambiente de desenvolvimento concluido"
 *   Ainda pelo prompt de comando, entre na pasta www/html e faça o clone do Seis Dígitos  
