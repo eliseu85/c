@@ -81,7 +81,7 @@ int MenuPrincipal()
 
 int main (void)
 {   	
-    Lista* l = NULL;             /* Cria uma lista vazia */   
+    Lista* l = NULL;             /* Cria uma lista vazia - hhhhhhhhhhb*/   
     int opcao = 0;    
     
     while(opcao!=9)
